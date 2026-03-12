@@ -1,0 +1,21 @@
+# Cache do Python (Arquivos compilados automaticamente)
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ambientes Virtuais (Caso você tenha criado um)
+venv/
+env/
+.venv/
+.env
+
+# Configurações locais de IDEs (VS Code, PyCharm, etc)
+.vscode/
+.idea/
+
+# Arquivos temporários do Sistema Operacional (especialmente se usar Mac)
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
